@@ -27,16 +27,18 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I'm very ambitious front-end developer looking for a role in
-                    established IT company with the opportunity to work with the latest
-                    technologies on challenging and diverse projects.
+                    Hello... I'm Harshit, from Nagpur, IN.
                 </p>
                 <p>
-                    I'm quietly confident, naturally curious, and perpetually working on
-                    improving my chops one design problem at a time.
+                    I'm currently pursing my B Tech degree in Computer Technology from Yeshwantrao Chavan College of Engineering(YCCE), Nagpur.
                 </p>
                 <p>
-                    If I need to define myself in one sentence that would be a tech-enthusiast and gym-person.
+                    C/C++, Javascript, and MySQL are three programming languages in which I am technically proficient. 
+                    I have practical experience with tools like ReactJs, and I'm learning more about Cloud computing and Web3 technologies like Solidity.
+                </p>
+                <p>
+                    I have a quiet sense of confidence, am naturally curious, 
+                    and am constantly trying to get better at development by solving a single problem at a time.
                 </p>
             </div>
 

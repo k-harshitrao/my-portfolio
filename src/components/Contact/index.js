@@ -48,9 +48,10 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in freelance opportunities - especially ambitious or
-                        large projects, if you have other request or question,
-                        don't hesitate to contact me using below form either.
+                        I am interested in an opportunity in the IT industry, where I can leverage my technical skills, adaptability, and passion for innovation to contribute to projects, learn from experienced professionals, and develop a successful career.
+                    </p>
+                    <p>
+                        If you have any opportunity or question, don't hesitate to contact me using below form.
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
@@ -75,13 +76,11 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className='info-map'>
-                    Harshit Rao,
-                    <br />
-                    India,
-                    <br />
-                    Civil Lines, 0805 <br />
+                    Harshit Rao, <br />
+                    Ashirwad Nagar, <br />
                     Nagpur <br />
-                    <span>khr@gmail.com</span>
+                    India <br />
+                    <span>k.harshitrao2002@gmail.com</span>
                 </div>
                 <div className="map-wrap">
                     <MapContainer center={[21.109393, 79.119828]} zoom={16}>

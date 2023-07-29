@@ -8,4 +8,6 @@
     bottom: 0;
     left: auto;
     margin: auto;
+    animation: fadeIn 1s 1.5s;
+    animation-fill-mode: forwards;
 }
